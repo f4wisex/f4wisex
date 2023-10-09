@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **faiisalmaliik1996@gmail.com**
 
-- 📄 Know about my experiences [faisalmalik.in](faisalmalik.in)
+- 📄 Know about my experiences [faisalmalik.in](http://wwww.faisalmalik.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
