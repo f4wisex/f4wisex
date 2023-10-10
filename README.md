@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalmalik47" alt="faisalmalik47" /></a> </p>
 
-- 🔭 I’m currently working on **WiseX**
+- 🔭 I’m currently working at **WiseX**
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **Prometheus/Grafana**
 
 - 💬 Ask me about **Devops, AWS, Infra, Cloud Applications, CI/CD, Deployments.**
 
